@@ -1,0 +1,7 @@
+*.bak
+*-cache.lib
+*pcb-bak
+*.zip
+*.net
+outputs
+*.jpg
